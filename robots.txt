@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-minimalnymi-stavkami-s-vyvodom.github.io
+Sitemap: https://kazino-s-minimalnymi-stavkami-s-vyvodom.github.io/sitemap.xml
